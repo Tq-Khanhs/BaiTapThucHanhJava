@@ -1,0 +1,5 @@
+MaNV;Ho;Ten;GT;Tuoi;Luong
+111;Tran Quoc;Khanh;true;21;1000000
+222;Nguyen Van;Binh;true;22;2000000
+333;Nguyen Thi;Lan;false;20;1000000
+444;Le thi;Mo;false;19;1000000
